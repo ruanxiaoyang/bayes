@@ -11,7 +11,7 @@
 <%=render '/layouts/header'%>
 <table>
 	<tr>
-		<td width="300">
+		<td width="200" valign="top">
 		<section id="leftheader">
 		<p><%=link_to "Home",'/page/home',:class=>"nolinkeffect"%></p>
 		<p><%=link_to "Research",'/page/research',:class=>"nolinkeffect"%></p>
@@ -22,7 +22,7 @@
 		<p><%=link_to "Information",'/page/information',:class=>"nolinkeffect"%></p>
 		</section>
 		</td>
-		<td><%=yield%></td>
+		<td style="border-left: 2px solid white; padding: 20px;"><%=yield%></td>
 	</tr>
 </table>
 <%=render '/layouts/footer'%>

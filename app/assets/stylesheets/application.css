@@ -36,3 +36,12 @@
 	color:		#6699FF;
 	text-decoration:	none;
 }
+
+.onelinelist {
+	display:	inline-block;
+	padding:	30px;
+}
+
+a {
+	color:		purple;
+}
