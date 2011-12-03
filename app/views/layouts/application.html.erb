@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%=title%></title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<div id="body">
+<%=render '/layouts/header'%>
+<table>
+	<tr>
+		<td width="300">
+		<section id="leftheader">
+		<p><%=link_to "Home",'/page/home',:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Research",'/page/research',:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Members",'/page/members',:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Publications",'/page/publications',:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Useful Links",'/page/useful_links',:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Contact",'/page/contact',:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Information",'/page/information',:class=>"nolinkeffect"%></p>
+		</section>
+		</td>
+		<td><%=yield%></td>
+	</tr>
+</table>
+<%=render '/layouts/footer'%>
+</div>
+</body>
+</html>
