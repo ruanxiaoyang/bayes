@@ -11,8 +11,6 @@ Bayes::Application.routes.draw do
 
   get "page/contact"
 
-  get "page/information"
-
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

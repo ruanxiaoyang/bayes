@@ -23,8 +23,5 @@ class PageController < ApplicationController
 	@title="Contact"
   end
 
-  def information
-	@title="Information"
-  end
 
 end
