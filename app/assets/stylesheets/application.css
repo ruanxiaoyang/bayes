@@ -11,9 +11,18 @@
 	margin-left:	auto;
 	margin-right:	auto;
 }
-
+#maintext{
+	width:		980px;
+	margin-left:	auto;
+	margin-right:	auto;
+	text-align:	justify;
+}
 #topheader {
 	background:	#F5F5F5;
+}
+
+#ontoheader{
+	background:	#F3F3F3;
 }
 
 #leftheader {

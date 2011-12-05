@@ -1,2 +1,64 @@
-<h1>Ontobiot#home</h1>
-<p>Find me in app/views/ontobiot/home.html.erb</p>
+<h3>Onto-BioThesaurus: Ontology-enabled Gene/Protein Entity Dictionary and its applications</h3> 
+<p><font color="#7f525d"><i>Current releases: onto-BioThesaurus 1.0 beta (BioThesaurus 7.0, July 1, 2010)<br/>
+Statistics: protein, gene Download: here</i></font></p>
+<nav>
+<ul>
+	<li><a href="#ref1">Search</a></li>
+	<li><a href="#ref2">Background</a></li>		
+	<li><a href="#ref3">Implementation</a></li>
+	<li><a href="#ref4">Download</a></li>
+	<li><a href="#ref5">Publications</a></li>
+</ul>
+</nav>
+<hr color="white">
+<h3><a name="ref1">Search onto-BioThesaurus</a></h3>
+<p>search part</p>
+<hr color="white">
+<h3><a name="ref2">Background</a></h3>
+<p>Crucial tasks toward knowledge management in the biomedical domain include recognizing names that represent biomedical entities in free text and associating them with corresponding entries in biomedical databases (or ontologies) in order to be used by other automated systems. We refer to the first task as biomedical name identification and the second as biomedical name normalization. Methods for name identification can be categorized into two ways: one is to use a dictionary and a mapping method; and the other is to markup names in the text according to contextual cues or specific verbs. The performance of dictionary-based systems depends on the coverage of the dictionary and on a method to disambiguate names that are associated with other semantic categories or are general English words. For the name normalization task, a knowledge base that associates names in text with entries in databases is necessary. There are some challenges faced by biomedical named entity tagging illustrated in the following.</p> 
+<table>
+	<tr>
+		<td width=500>
+	<ul>
+		<li><h4>Lack of resources for gene/protein classes and families</h4>
+    		<p>Many gene/protein names in text are generic and refer to gene/protein families. We currently do not have standard representations for those gene/protein names.</p>
+		</li>    
+		<li><h4>Characteristics associated with gene/protein names</h4>
+    		<p>There are several characteristics associated with gene/protein names which make biomedical name identification and normalization very challenging.</p>
+        	<ul>
+			<li><b>Synonymy</b> Different names can refer to the same gene/protein. Some gene/protein names are textual variations of each other (i.e., they can be unified through ignoring cases or punctuations, normalizing syntactic difference, or ignoring word order).
+			</li>
+        		<li><b>Ambiguity</b> One name can be associated with different genes or proteins. We distinguish two types of ambiguity: systematic and un-systematic. Systematic ambiguity refers to ambiguity caused by closely-related genes or proteins. Homologous genes or proteins (related in sequence, structure, or function) can share the same name. Genes or proteins can be named after their corresponding phenotypic concepts (e.g., diseases) or after their sequence domains or molecular functions. Genes or proteins that are closely related through certain relationships, such as sequence or structure homology, or common biological functions, can form a class, and records in the class can have the same name.
+			</li>
+        		<li><b>Coverage</b> Coverage, related to novelty, refers to names for genes or proteins in text that cannot be associated with the corresponding records in databases or knowledge sources. There are two cases of novelty. One case concerns a new name for an existing gene/protein, which may be due to discovery of a new function or to a new derivable synonym or text variants of an existing term that could not be detected using existing algorithms. Such novelty is name novelty (or name coverage).</li>
+		</ul>
+		</li>
+	</ul> 
+		</td>
+		<td width=500 align="right" valign="top"><%=image_tag "NLPexample_small.jpg", :mouseover=>'NLPexample.jpg'%><br/>
+		Mouseover for large image</td>
+	</tr>
+</table>
+<hr color="white">
+<h3><a name="ref3">Implementation</a></h3>
+<p>We enhanced BioThesaurus, developed by the lab, with gene/protein-related ontologies and categories and Onto-BioThesaurus is obtained by</p>
+<ul>
+	<li>Use ontology-alignment techniques to map names in BioThesaurus to gene/protein-related ontologies for recognizing systematic ambiguity of a name.</li>
+	<li>Use corpus-based approaches to mine and ontology-enabled reasoning to enrich BioThesaurus and enable query expansion.</li>
+</ul>
+<hr color="white">
+<h3><a name="ref4">Download</a></h3>
+<p>BioThesaurus-protein (mapped to UniProtKB) and BioThesaurus-gene (mapped to EntrezGene) can be downloaded here.</p>
+
+<hr color="white">
+<h3><a name="ref5">Publication</a></h3>
+<ul>
+	<li>H. Liu, Z. Hu, J. Zhang, C. Wu (2006) BioThesaurus: a web-based thesaurus of protein and gene names. Bioinformatics, 2006 22(1): 103-105 <a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/22/1/103">Paper</a></li>
+	<li>H. Liu, Z. Hu, M. Torii, C. Wu, C. Friedman (2006) Quantitative assessment of dictionary-based protein named entity tagging Journal of American Medical Informatics Association, 2006 13(5): 497-507 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1562801/?tool=pubmed">Paper</a></li>
+	<li>M. Torii, Z. Hu, C. Wu, H. Liu (2009) BioTagger-GM: a gene/protein name recognition systems. Journal of American Medical Informatics Association, 2009 16(2): 247-255 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2649315/?tool=pubmed">Paper</a></li>
+</ul>
+  
+
+
+
+
