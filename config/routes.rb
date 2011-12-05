@@ -1,4 +1,6 @@
 Bayes::Application.routes.draw do
+  get "ontobiot/home"
+
   get "page/home"
 
   get "page/research"
