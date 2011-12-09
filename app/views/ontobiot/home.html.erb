@@ -11,8 +11,28 @@ Statistics: protein, gene Download: here</i></font></p>
 </ul>
 </nav>
 <hr color="white">
+
 <h3><a name="ref1">Search onto-BioThesaurus</a></h3>
-<p>search part</p>
+<form action='/ontobiot/respage'>
+Search <input type="text" name="text1"><input type="checkbox" name="check1">Enable Substring Search
+<br/>
+according to <input type="radio" name="radio1" value="opt1">Text with cretia
+<select name="select1">
+	<option value="flex">Flexible Match
+	<option value="exac">Exact Match
+</select>
+<br/>
+<input type="radio" name="radio1" value="opt2">Identifiers (EntrezGene ID, UniProtKB Accession, PANTHER ID, and PIRSF ID)
+<br/>
+<input type="submit"/>
+</form>
+
+
+
+<p><%=@res%></p>
+
+
+
 <hr color="white">
 <h3><a name="ref2">Background</a></h3>
 <p>Crucial tasks toward knowledge management in the biomedical domain include recognizing names that represent biomedical entities in free text and associating them with corresponding entries in biomedical databases (or ontologies) in order to be used by other automated systems. We refer to the first task as biomedical name identification and the second as biomedical name normalization. Methods for name identification can be categorized into two ways: one is to use a dictionary and a mapping method; and the other is to markup names in the text according to contextual cues or specific verbs. The performance of dictionary-based systems depends on the coverage of the dictionary and on a method to disambiguate names that are associated with other semantic categories or are general English words. For the name normalization task, a knowledge base that associates names in text with entries in databases is necessary. There are some challenges faced by biomedical named entity tagging illustrated in the following.</p> 
