@@ -1,4 +1,6 @@
 Bayes::Application.routes.draw do
+  get "dyngo/home"
+
   get "biotagger/home"
 
   get "biotagger/respage"
