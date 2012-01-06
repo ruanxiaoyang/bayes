@@ -13,12 +13,12 @@
 	<tr>
 		<td width="200" valign="top">
 		<section id="leftheader">
-		<p><%=link_to "Home",'/page/home',:class=>"nolinkeffect"%></p>
-		<p><%=link_to "Research",'/page/research',:class=>"nolinkeffect"%></p>
-		<p><%=link_to "Members",'/page/members',:class=>"nolinkeffect"%></p>
-		<p><%=link_to "Publications",'/page/publications',:class=>"nolinkeffect"%></p>
-		<p><%=link_to "Useful Links",'/page/useful_links',:class=>"nolinkeffect"%></p>
-		<p><%=link_to "Contact",'/page/contact',:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Home", rt('/page/home'),:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Research",rt('/page/research'),:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Members",rt('/page/members'),:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Publications",rt('/page/publications'),:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Useful Links",rt('/page/useful_links'),:class=>"nolinkeffect"%></p>
+		<p><%=link_to "Contact",rt('/page/contact'),:class=>"nolinkeffect"%></p>
 		</section>
 		</td>
 		<td style="border-left: 2px solid white; padding: 20px;"><%=yield%></td>

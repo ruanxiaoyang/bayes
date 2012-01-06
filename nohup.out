@@ -1,0 +1,1755 @@
+[2011-12-22 09:37:02] INFO  WEBrick 1.3.1
+[2011-12-22 09:37:02] INFO  ruby 1.9.3 (2011-10-30) [x86_64-linux]
+[2011-12-22 09:37:02] INFO  WEBrick::HTTPServer#start: pid=2828 port=3000
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:07] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:13] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+=> Booting WEBrick
+=> Rails 3.1.1 application starting in development on http://0.0.0.0:3000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+
+
+Started GET "/page/home" for 172.24.157.23 at 2011-12-22 09:37:06 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (27.4ms)
+Rendered layouts/_header.html.erb (0.6ms)
+Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 257ms (Views: 257.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /page.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /ontobiot.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /jquery.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (4ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:07 -0600
+Served asset /headerpic.png - 304 Not Modified (12ms)
+
+
+Started GET "/page/home" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/home" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 50ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:13 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/home" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/home" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:14] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:16] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:19] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:19] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:14 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:15 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:15 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/research" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+  Processing by PageController#research as HTML
+Rendered page/research.html.erb within layouts/application (0.6ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 19ms (Views: 18.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:16 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/members" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+  Processing by PageController#members as HTML
+Rendered page/members.html.erb within layouts/application (0.5ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:17 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/publications" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+  Processing by PageController#publications as HTML
+Rendered page/publications.html.erb within layouts/application (0.6ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:18 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:19 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:19 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/useful_links" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+  Processing by PageController#useful_links as HTML
+Rendered page/useful_links.html.erb within layouts/application (0.4ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:20 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:21 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/publications" for 172.24.157.23 at 2011-12-22 09:37:21 -0600
+  Processing by PageController#publications as HTML
+Rendered page/publications.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:37:58] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/members" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+  Processing by PageController#members as HTML
+Rendered page/members.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:22 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/research" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+  Processing by PageController#research as HTML
+Rendered page/research.html.erb within layouts/application (0.2ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:37:24 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/ontobiot/home" for 172.24.157.23 at 2011-12-22 09:37:57 -0600
+  Processing by OntobiotController#home as HTML
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.8ms)
+Rendered layouts/_ontobiotheader.html.erb (0.6ms)
+Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/MCNLP.png" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /MCNLP.png - 200 OK (21ms)
+
+
+Started GET "/assets/NLPexample_small.jpg" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /NLPexample_small.jpg - 200 OK (1ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:37:58 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/NLPexample.jpg" for 172.24.157.23 at 2011-12-22 09:38:01 -0600
+Served asset /NLPexample.jpg - 200 OK (109ms)
+
+
+Started GET "/page/home" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+[2011-12-22 09:38:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:20] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:23] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:24] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:38:20 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/research" for 172.24.157.23 at 2011-12-22 09:38:23 -0600
+  Processing by PageController#research as HTML
+Rendered page/research.html.erb within layouts/application (0.2ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 52ms (Views: 51.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-22 09:38:24 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/ontobiot/home" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+  Processing by OntobiotController#home as HTML
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.3ms)
+Rendered layouts/_ontobiotheader.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:38:26 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-22 09:38:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-27 10:40:04] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:06:21] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/ontobiot/respage?text1=&select1=flex" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+  Processing by OntobiotController#respage as HTML
+  Parameters: {"text1"=>"", "select1"=>"flex"}
+Rendered ontobiot/respage.html.erb within layouts/ontobiotlayout (0.5ms)
+Rendered layouts/_ontobiotheader.html.erb (0.3ms)
+Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 18ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-22 09:38:46 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/home" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2011-12-27 10:40:04 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/home" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /page.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /ontobiot.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /jquery.js - 200 OK (1ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /page.js - 200 OK (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /ontobiot.css - 200 OK (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /Mayo_Clinic.png - 200 OK (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.138 at 2011-12-29 09:06:11 -0600
+Served asset /headerpic.png - 200 OK (0ms)
+
+
+Started GET "/page/research" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+  Processing by PageController#research as HTML
+Rendered page/research.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:18 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/ontobiot/home" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+  Processing by OntobiotController#home as HTML
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.3ms)
+Rendered layouts/_ontobiotheader.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 6ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/MCNLP.png" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /MCNLP.png - 200 OK (0ms)
+
+
+Started GET "/assets/NLPexample_small.jpg" for 172.24.157.138 at 2011-12-29 09:06:21 -0600
+Served asset /NLPexample_small.jpg - 200 OK (0ms)
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2011-12-29 09:07:46] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 09:24:28] ERROR SignalException: SIGTERM
+	/usr/local/lib/ruby/1.9.1/webrick/server.rb:98:in `select'
+[2012-01-05 12:45:46] INFO  WEBrick 1.3.1
+[2012-01-05 12:45:46] INFO  ruby 1.9.3 (2011-10-30) [x86_64-linux]
+[2012-01-05 12:45:46] INFO  WEBrick::HTTPServer#start: pid=25959 port=3000
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:52] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:54] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:45:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+=> Booting WEBrick
+=> Rails 3.1.1 application starting in development on http://0.0.0.0:3000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+
+
+Started GET "/page/home" for 172.24.157.23 at 2012-01-05 12:45:51 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (26.9ms)
+Rendered layouts/_header.html.erb (0.5ms)
+Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 55ms (Views: 54.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /ontobiot.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /jquery.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /page.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /page.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /ontobiot.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2012-01-05 12:45:52 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/research" for 172.24.157.23 at 2012-01-05 12:45:53 -0600
+  Processing by PageController#research as HTML
+Rendered page/research.html.erb within layouts/application (0.6ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2012-01-05 12:45:54 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/ontobiot/home" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+  Processing by OntobiotController#home as HTML
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.8ms)
+Rendered layouts/_ontobiotheader.html.erb (0.6ms)
+Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/MCNLP.png" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /MCNLP.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/NLPexample_small.jpg" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /NLPexample_small.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2012-01-05 12:45:55 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:46:22] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 12:55:27] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 13:03:15] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 15:55:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 15:55:55] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 16:00:57] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 16:03:06] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 16:41:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2012-01-05 16:41:26] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/ontobiot/respage?s=cetp&substr=on&db=text&sc=Exact" for 172.24.157.23 at 2012-01-05 12:46:21 -0600
+  Processing by OntobiotController#respage as HTML
+  Parameters: {"s"=>"cetp", "substr"=>"on", "db"=>"text", "sc"=>"Exact"}
+Rendered ontobiot/respage.html.erb within layouts/ontobiotlayout (0.5ms)
+Rendered layouts/_ontobiotheader.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 232ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/MCNLP.png" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /MCNLP.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2012-01-05 12:46:22 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/page/home" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /headerpic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.23 at 2012-01-05 12:55:27 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/ontobiot/home" for 172.24.157.138 at 2012-01-05 13:03:14 -0600
+  Processing by OntobiotController#home as HTML
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.3ms)
+Rendered layouts/_ontobiotheader.html.erb (0.3ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/ontobiot/home" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+  Processing by OntobiotController#home as HTML
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.3ms)
+Rendered layouts/_ontobiotheader.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/ontobiot/home" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+  Processing by OntobiotController#home as HTML
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.3ms)
+Rendered layouts/_ontobiotheader.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /ontobiot.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /page.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /ontobiot.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/MCNLP.png" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /MCNLP.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /page.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/NLPexample_small.jpg" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /NLPexample_small.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/MCNLP.png" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /MCNLP.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/NLPexample_small.jpg" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /NLPexample_small.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.24.157.138 at 2012-01-05 13:03:15 -0600
+Served asset /Mayo_Clinic.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/NLPexample.jpg" for 172.24.157.138 at 2012-01-05 15:55:55 -0600
+Served asset /NLPexample.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/NLPexample.jpg" for 172.24.157.138 at 2012-01-05 15:55:55 -0600
+Served asset /NLPexample.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/NLPexample.jpg" for 172.24.157.138 at 2012-01-05 16:00:57 -0600
+Served asset /NLPexample.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/NLPexample.jpg" for 172.24.157.138 at 2012-01-05 16:03:06 -0600
+Served asset /NLPexample.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/NLPexample.jpg" for 172.24.157.138 at 2012-01-05 16:41:26 -0600
+Served asset /NLPexample.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/NLPexample_small.jpg" for 172.24.157.138 at 2012-01-05 16:41:26 -0600
+Served asset /NLPexample_small.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/page/home" for 172.25.87.186 at 2012-01-05 18:37:15 -0600
+  Processing by PageController#home as HTML
+Rendered page/home.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ontobiot.css?body=1" for 172.25.87.186 at 2012-01-05 18:37:16 -0600
+Served asset /ontobiot.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 172.25.87.186 at 2012-01-05 18:37:16 -0600
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/page.css?body=1" for 172.25.87.186 at 2012-01-05 18:37:16 -0600
+Served asset /page.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 172.25.87.186 at 2012-01-05 18:37:16 -0600
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 172.25.87.186 at 2012-01-05 18:37:16 -0600
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/ontobiot.js?body=1" for 172.25.87.186 at 2012-01-05 18:37:16 -0600
+Served asset /ontobiot.js - 200 OK (0ms)
+
+
+Started GET "/assets/page.js?body=1" for 172.25.87.186 at 2012-01-05 18:37:16 -0600
+Served asset /page.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 172.25.87.186 at 2012-01-05 18:37:16 -0600
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/Mayo_Clinic.png" for 172.25.87.186 at 2012-01-05 18:37:17 -0600
+Served asset /Mayo_Clinic.png - 200 OK (0ms)
+
+
+Started GET "/assets/headerpic.png" for 172.25.87.186 at 2012-01-05 18:37:17 -0600
+Served asset /headerpic.png - 200 OK (0ms)
+
+
+Started GET "/page/members" for 172.25.87.186 at 2012-01-05 18:37:22 -0600
+  Processing by PageController#members as HTML
+Rendered page/members.html.erb within layouts/application (0.4ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/page/research" for 172.25.87.186 at 2012-01-05 18:37:24 -0600
+  Processing by PageController#research as HTML
+Rendered page/research.html.erb within layouts/application (0.1ms)
+Rendered layouts/_header.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/ontobiot/home" for 172.25.87.186 at 2012-01-05 18:37:27 -0600
+  Processing by OntobiotController#home as HTML
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.3ms)
+Rendered layouts/_ontobiotheader.html.erb (0.3ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/MCNLP.png" for 172.25.87.186 at 2012-01-05 18:37:27 -0600
+Served asset /MCNLP.png - 200 OK (0ms)
+
+
+Started GET "/assets/NLPexample_small.jpg" for 172.25.87.186 at 2012-01-05 18:37:27 -0600
+Served asset /NLPexample_small.jpg - 200 OK (0ms)
+Can't return outside a subroutine at /home/projects/webapplication/cgi-bin/ontoBioT/util/ontoscript.pl line 37, <FILE> line 480.
+[2012-01-05 18:37:39] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+
+
+Started GET "/ontobiot/respage?s=cetp&sc=fl&db=db" for 172.25.87.186 at 2012-01-05 18:37:37 -0600
+  Processing by OntobiotController#respage as HTML
+  Parameters: {"s"=>"cetp", "sc"=>"fl", "db"=>"db"}
+Rendered ontobiot/respage.html.erb within layouts/ontobiotlayout (0.1ms)
+Rendered layouts/_ontobiotheader.html.erb (0.3ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 44ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/ontobiot/home" for 172.25.87.186 at 2012-01-05 18:37:39 -0600
+  Processing by OntobiotController#home as */*
+Rendered ontobiot/home.html.erb within layouts/ontobiotlayout (0.9ms)
+Rendered layouts/_ontobiotheader.html.erb (0.2ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)

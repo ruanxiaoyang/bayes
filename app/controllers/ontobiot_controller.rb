@@ -5,10 +5,11 @@ class OntobiotController < ApplicationController
   end
 
   def respage
-	@sstr=params[:text1]
-	@substr=params[:check1]
-	@sdb=params[:radio1]
-	@sc=params[:select1]
-	@res=`perl bin/tmpperl.pl "#{@sstr}" "#{@substr}" "#{@sdb}" "#{@sc}"`
+	@sstr=params[:s]
+	@substr=params[:substr]
+	@sdb=params[:db]
+	@sc=params[:sc]
+	@res=`perl /home/projects/webapplication/cgi-bin/ontoBioT/util/ontoscript.pl "#{@sstr}" "#{@sdb}" "#{@sc}" "#{@substr}"`
+#  	@res=`perl bin/tmpperl.pl "#{@sstr}" "#{@sdb}" "#{@sc}" "#{@substr}"`
   end
 end

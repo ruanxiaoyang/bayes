@@ -13,16 +13,16 @@ Statistics: protein, gene Download: here</i></font></p>
 <hr color="white">
 
 <h3><a name="ref1">Search onto-BioThesaurus</a></h3>
-<form action='/ontobiot/respage'>
-Search <input type="text" name="text1"><input type="checkbox" name="check1">Enable Substring Search
+<form action=<%=rt('/ontobiot/respage')%>>
+Search <input type="text" name="s"><input type="checkbox" name="substr">Enable Substring Search
 <br/>
-according to <input type="radio" name="radio1" value="opt1">Text with cretia
-<select name="select1">
-	<option value="flex">Flexible Match
-	<option value="exac">Exact Match
+according to <input type="radio" name="db" value="text" checked>Text with cretia
+<select name="sc">
+	<option value="fl">Flexible Match
+	<option value="Exact">Exact Match
 </select>
 <br/>
-<input type="radio" name="radio1" value="opt2">Identifiers (EntrezGene ID, UniProtKB Accession, PANTHER ID, and PIRSF ID)
+<input type="radio" name="db" value="db">Identifiers (EntrezGene ID, UniProtKB Accession, PANTHER ID, and PIRSF ID)
 <br/>
 <input type="submit"/>
 </form>

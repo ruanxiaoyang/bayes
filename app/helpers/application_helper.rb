@@ -16,4 +16,8 @@ def barcolor
 	return "#9999FF";
 end
 
+def rt(pathstr)
+	return pathstr;
+end
+
 end

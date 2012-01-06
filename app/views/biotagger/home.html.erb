@@ -1,0 +1,72 @@
+<h3>BioTagger-GM: A gene/protein name tagging system based on dictionary and system ensemble</h3>
+<nav>
+<ul>
+	<li><a href="#ref1">Background</a></li>
+	<li><a href="#ref2">Implementation</a></li> 	
+	<li><a href="#ref3">Web server</a></li> 	
+	<li><a href="#ref4">Download</a></li>
+	<li><a href="#ref5">Publications</a></li>
+</ul>
+</nav>
+<hr color="white">
+
+<h2><a name="ref1">Background</a></h2>
+<p>Biomedical named entity recognition (BNER) is a critical component in automated systems that mine biomedical knowledge in free text. Among different types of entities in the domain, gene/protein would be the most studied one for BNER. Our goal is to develop a gene/protein name recognition system BioTagger-GM that exploits rich information in terminology sources using powerful machine learning frameworks and system combination.</p>
+
+<h2><a name="ref2">Implementation</a></h2>
+<p>BioTagger-GM consists of four main components: (1) dictionary lookup-gene/protein names in BioThesaurus and biomedical terms in UMLS Metathesaurus are tagged in text, (2) machine learning-machine learning systems are trained using dictionary lookup results as one type of feature, (3) post-processing-heuristic rules are used to correct recognition errors, and (4) system combination-a voting scheme is used to combine recognition results from multiple systems. Evaluation indicates that terminology sources, powerful machine learning frameworks, and system combination can be integrated to build an effective BNER system.</p>
+ 
+<h2><a name="ref3">Web server</a></h2>
+<form action=<%=rt('/biotagger/respage')%>>
+<p>Step 1:Select query data format:
+<select name="format">
+	<option value="LINE">Sentences(in s[0-9]+~|~Sentence format)
+	<option value="PMC">Valid Pubmed Central IDs (e.g.,100284)
+	<option value="Pubmed">Valid Pubmed IDs (e.g.,19675209)
+</select>
+</p>
+<hr color="white">
+
+<p>Step 2: Query sentences or PMC/PubMed IDs (one per line)<br/>
+<%= text_area_tag(:text, "s1~|~Here, we show that the microtubule-associated Ste20 kinase SLK, required for cell migration, interacts with the LIM domain binding transcriptional cofactor proteins Ldb1/CLIM2 and Ldb2/CLIM1/NLI.
+s2~|~Lmo4 and Clim1 progressively delineate cortical projection neuron subtypes during development.", :size => "80x20") %>
+<br/>
+or upload from a file<br/>
+<%=file_field_tag('dataFile')%>
+</p>
+<hr color="white">
+
+<p>Step3: Email address for results notification (optional)<br/>
+<%=text_field_tag(:EMail,'',:size=>"45")%>
+</p>
+
+<p>Step4: Submit query<br/>
+<input type="submit"><br/>
+<font COLOR="#404040" size=1.5> An email will be sent when results are ready for download if you provide a valid email address.<br> Otherwise, keep a record of your task number shown afte submission. <br> All results will be deleted in three days.</FONT>
+</p>
+</form>
+
+<hr color="white">
+<h2><a name="ref4">Download</a></h2>
+<p>A Linux-tested version of the BioTagger-GM package can be downloaded here .<br/>
+Follow the instruction provided in the README file included in the package for installation and execution of the project.
+</p>
+
+<h2><a name="ref5">Publication</a></h2>
+<ul>
+	<li>H. Liu, Z. Hu, M. Torii, C. Wu, C. Friedman (2006) Quantitative assessment of dictionary-based protein named entity tagging Journal of American Medical Informatics Association, 2006 13(5): 497-507 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1562801/?tool=pubmed">Paper</a></li>
+	<li>M. Torii, Z. Hu, C. Wu, H. Liu (2009) BioTagger-GM: a gene/protein name recognition systems. Journal of American Medical Informatics Association, 2009 16(2): 247-255 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2649315/?tool=pubmed">Paper</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
