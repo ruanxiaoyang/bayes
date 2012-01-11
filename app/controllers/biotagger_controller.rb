@@ -9,4 +9,7 @@ class BiotaggerController < ApplicationController
 		@datafile=params[:dataFile];
 		@email=params[:EMail];
 	end
+	def download
+		render :layout=>false;
+	end
 end

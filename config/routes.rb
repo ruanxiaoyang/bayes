@@ -4,6 +4,7 @@ Bayes::Application.routes.draw do
   get "biotagger/home"
 
   get "biotagger/respage"
+  get "biotagger/download"
   get "ontobiot/home"
   get "ontobiot/respage"
   get "page/home"
@@ -18,7 +19,7 @@ Bayes::Application.routes.draw do
 
   get "page/contact"
 
-
+ 
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
